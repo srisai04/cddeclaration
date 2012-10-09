@@ -2,8 +2,8 @@
 	//Local Server
 	$dbhost="localhost";
 	$dbname="cddecv2";
-	$dbuser="mncconsult";
-	$dbpassword="mncconsult";
+	$dbuser="root";
+	$dbpassword="";
 
 	$QUESTIONS_PER_PAGE = 20;
 
