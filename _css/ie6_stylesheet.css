@@ -1,0 +1,32 @@
+table.tblQuestions textarea{
+	width: 95%;
+}
+
+#divRHS{
+	width: 710px;
+}
+
+ul.ulAccountIcons li{
+	margin: 10px 16px 20px 11px;
+}
+
+#divPageBottom{
+	background-image: url(_images/layout/bottom_ie6.gif);
+}
+
+#divHeader{
+	background-image: url(_images/layout/top_ie6.gif);
+}
+
+#divPage{
+	background-image: url(_images/layout/page_ie6.gif);
+}
+
+table.tblQuestions td.answers input{
+	vertical-align: bottom;
+}
+
+hr{
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
